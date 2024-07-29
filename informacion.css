@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(0, 0, 0);
+    background: url(img/Fondo.jpg); 
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    color: white;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 3px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+  text-align: left;
+  margin-top: 10%;
+  margin-right: 5%;
+  letter-spacing: 1px;
+}
+
+li{
+    margin-bottom: 30px;
+}
